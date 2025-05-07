@@ -30,7 +30,7 @@ public class Version {
     return VERSION;
   }
 
-  public static String getSourceHash() {
+  public static String getHash() {
     return HASH;
   }
 
